@@ -84,14 +84,14 @@ div.social img {
 		height: 30px;
 		letter-spacing: 0.165px;
 		line-height: 14px;
-		margin: 10px auto 0 auto;
+		margin: 15px auto 0 auto;
 		width: 240px;
 	}
 	div {
-		margin-top: 10px;
+		margin-top: 15px;
 	}
 	div.social img {
-		height: 17.5px;
+		height: 20px;
 		padding: 0 5px;
 	}
 }
