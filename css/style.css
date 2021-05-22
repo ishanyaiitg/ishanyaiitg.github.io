@@ -1,3 +1,7 @@
+html {
+	max-width: 100%;
+	overflow-x: hidden;
+}
 body {
 	align-content: center;
 	align-items: center;
@@ -16,7 +20,7 @@ body {
 	line-height: 36px;
 	overflow-x: hidden;
 	text-align: center;
-	width: 100%;
+	max-width: 100%;
 }
 
 img.logo {
