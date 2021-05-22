@@ -64,7 +64,7 @@ div.social img {
 @media only screen and (max-width: 540px) {
 	body {
 		font-family: Barlow;
-		font-size: 14px;
+		font-size: 16px;
 		line-height: 18px;
 		padding: 0 25px;
 	}
