@@ -14,9 +14,9 @@ body {
 	justify-content: center;
 	letter-spacing: 0.3px;
 	line-height: 36px;
+	overflow-x: hidden;
 	text-align: center;
-	width: 100vw;
-	overflow: hidden;
+	width: 100%;
 }
 
 img.logo {
